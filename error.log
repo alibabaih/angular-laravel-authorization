@@ -1,0 +1,25 @@
+[10-Sep-2015 09:20:29 UTC] PHP Warning:  PHP Startup: mongo: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Sep-2015 09:20:46 UTC] PHP Warning:  PHP Startup: mongo: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Sep-2015 09:22:57 UTC] PHP Warning:  PHP Startup: mongo: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Sep-2015 09:23:42 UTC] PHP Warning:  PHP Startup: mongo: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
+[10-Sep-2015 09:25:23 UTC] PHP Warning:  PHP Startup: mongo: Unable to initialize module
+Module compiled with module API=20100525
+PHP    compiled with module API=20131226
+These options need to match
+ in Unknown on line 0
