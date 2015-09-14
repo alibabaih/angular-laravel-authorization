@@ -1,4 +1,4 @@
-## Token-Based Authentication for AngularJS and Laravel Tutorial
+## Token-Based Authentication for AngularJS and Laravel
 
 ### Installation
 
